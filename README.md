@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Neale2
-- 👀 I’m interested in python and Raspberry Pi
+- 👀 I’m interested in python, Minecraft, and Raspberry Pi
 - 📫 You can reach me at arturo.neale@gmail.com
 
 <!---
